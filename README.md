@@ -18,8 +18,8 @@ Prettify all source files on push, using [Prettier][prettier].
 Observe the result of this Push:
 
 1. Prettify Workflow is executed by GitHub Actions
-2. Job prettifies the changed file(s)
-3. Format changes are pushed back to the repository
+2. Job prettifies the file(s)
+3. Any changes are pushed back to the repository
 4. Prettify Workflow is executed _again_
 5. No changes are generated, Workflow terminates
 
