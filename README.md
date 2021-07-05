@@ -25,8 +25,8 @@ Observe the result of this Push:
 
 [post]: https://medium.com/p/f594c21373ef
 [post/deploy-keys]: https://medium.com/p/f594c21373ef#7a8c
-[fork]: fork
-[enable-actions]: actions
+[fork]: /fork
+[enable-actions]: /actions
 [workflows/prettify]: .github/workflows/prettify.yml
 [prettier]: https://prettier.io/
 [prettier/quotes]: https://prettier.io/docs/en/rationale.html
