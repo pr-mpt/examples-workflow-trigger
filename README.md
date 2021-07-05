@@ -29,4 +29,4 @@ Observe the result of this Push:
 [enable-actions]: actions
 [workflows/prettify]: .github/workflows/prettify.yml
 [prettier]: https://prettier.io/
-[prettier-quotes]: https://prettier.io/docs/en/rationale.html#strings
+[prettier/quotes]: https://prettier.io/docs/en/rationale.html
