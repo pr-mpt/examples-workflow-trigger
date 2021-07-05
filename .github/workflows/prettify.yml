@@ -3,7 +3,7 @@ name: "Prettify Source"
 on:
   push:
     branches:
-      - '**'
+      - "**"
 
 jobs:
   prettify:
